@@ -1,23 +1,23 @@
 <resources>
-    <string name="app_name">Destini</string>
+    <string name="app_name">Space_Adventure</string>
 
-    <string name="T1_Story">Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: \"Need a ride, boy?\". </string>
-    <string name="T1_Ans1">I\'ll hop in. Thanks for the help! </string>
-    <string name="T1_Ans2">Better ask him if he\'s a murderer first. </string>
-
-
-    <string name="T2_Story">He nods slowly, unphased by the question.</string>
-    <string name="T2_Ans1">At least he\'s honest. I\'ll climb in.</string>
-    <string name="T2_Ans2">Wait, I know how to change a tire.</string>
+    <string name="T1_Story">You arrive at the recently constructed dark side Moon base MONENTIS. There are a few strange reports of radio silence and missing miners and no contact for months now. Alone you don your space suit, nerves seem to get the best of you. But taking this assignment was not by choice, now your the reluctant hero in all this. Reaching the large moon base doors you see no lights or any movement inside, it appears locked shut.</string>
+    <string name="T1_Ans1">Try prying on the large metal door with your space crowbar?</string>
+    <string name="T1_Ans2">Use the communications computer link to by pass the security lock?</string>
 
 
-    <string name="T3_Story">As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.</string>
-    <string name="T3_Ans1">I love Elton John! Hand him the cassette tape.</string>
-    <string name="T3_Ans2">It\'s him or me! You take the knife and stab him.</string>
+    <string name="T2_Story">You start prying the metal door and see debris leaving the tiny slit you have pried open. After a time of prying you open the door finally; exhausted, you head inside and use the flashlight in your rescue kit to light the entrance way. No one is there to greet you and everything seems untouched. A open computer registry is lit in the dark, there is a plugin port it seems. You see a single passageway leading deeper into the moon base.</string>
+    <string name="T2_Ans1">Do you plug into the single data port?</string>
+    <string name="T2_Ans2">You forget the data port and head into the moon base instead?</string>
 
 
-    <string name="T4_End">What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?</string>
-    <string name="T5_End">As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.</string>
-    <string name="T6_End">You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: \"Try the pier.\"</string>
+    <string name="T3_Story">The communications link phases in after a few tries. The system have been rebooted it seems and the system refreshes and comes online. You find the outside door controls and enter the security password and viola! everything lights up and the door is released. Venturing inside you measure a safe level of oxygen and take your helmet off. Ugh stale air. There is a comm system in front of you and a single hallway from here leading farther inside the moon base.</string>
+    <string name="T3_Ans1">Try using the com system you have found and try and contact the miners?</string>
+    <string name="T3_Ans2">You think its wiser to just not announce yourself just yet and enter the moon base further?</string>
+
+
+    <string name="T4_End">The system comes online abruptly and scares you good. A message comes over the network \"Warning Monentis has been compromised! Biologics of a deadly nature have been discovered and the crew have fallen sick. Do not enter moon base at all costs\". After hearing the dire warning you access the live status monitors of all personnel on the base and discover that the entire team of moon miners are dead. Sad mission report but you get to come home. Your mission is accomplished the moon base Monentis remains quarantined to this very day.</string>
+    <string name="T5_End">You enter the moon base and quickly discover the whole mining team in a circle. They are motionless and do not react to your sudden presence. You find a data disk in the crew biologists hands. You set it in your computer and then it reveals a grim reality. A deadly virus on the moon has been discovered and every one is dead including the one man that could have saved everyone. You are now trapped and will suffer that same fate! THE END.</string>
+    <string name="T6_End">You quickly enter the moon base a foul stench greets you and you see to your horror all the miners are in a circle motionless and they eerily look like death upon each of them. You reach for a data disk the team biologist has gripped in his hands. After a time you access the data and to your horror the crew has died of a deadly virus and you are also now contaminated. With your few last hours at hand you start feeling lost and scared, you forget why you are even here on this mission, death takes you. THE END. </string>
 
 </resources>
