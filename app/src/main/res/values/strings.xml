@@ -8,7 +8,7 @@
 
     <string name="T2_Story">You start prying the metal door and see debris leaving the tiny slit you have pried open. After a time of prying you open the door finally; exhausted, you head inside and use the flashlight in your rescue kit to light the entrance way. No one is there to greet you and everything seems untouched. A open computer registry is lit in the dark, there is a plugin port it seems. You see a single passageway leading deeper into the moon base.</string>
     <string name="T2_Ans1">Do you plug into the single data port?</string>
-    <string name="T2_Ans2">You forget the data port and head into the moon base instead?</string>
+    <string name="T2_Ans2">You leave the data port and head into the moon base instead?</string>
 
 
     <string name="T3_Story">The communications link phases in after a few tries. The system have been rebooted it seems and the system refreshes and comes online. You find the outside door controls and enter the security password and viola! everything lights up and the door is released. Venturing inside you measure a safe level of oxygen and take your helmet off. Ugh stale air. There is a comm system in front of you and a single hallway from here leading farther inside the moon base.</string>
